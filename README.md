@@ -1,4 +1,4 @@
-# Data-Scientist-Personal-proclamation/declaration
+# Data-Scientist-Personal-Proclamation/Declaration
 This manifesto serves as a personal guide to help understand the process of data science, 
 which covers all the CRISP-DM process from problem formulation, data acquisition, 
 modeling and analysis, and presentation and integration into action. It seeks to explore what data scientists do, 
